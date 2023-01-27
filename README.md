@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there, I'm Rays ! 👋
+#French Man (yes Baguette ...) 🇫🇷
+🔭 I’m currently working on HistoryLand, a French Minecraft Server
+🌱 I’m currently learning in a French High School
 <!--
 **Rays-France/Rays-France** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
